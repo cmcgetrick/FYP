@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "507544112777",
+    "project_id": "fypwork-f3388",
+    "storage_bucket": "fypwork-f3388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:507544112777:android:a4b38e446b2c4e6efdc058",
+        "android_client_info": {
+          "package_name": "com.example.flutter3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "507544112777-oq71qj5ppjie7n1ppkm7hec6ccf897rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_QFjYRkjoA7gcLLUOScetacg4grnY61E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "507544112777-oq71qj5ppjie7n1ppkm7hec6ccf897rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
